@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+body{
+	background: #333;
+	line-height: 1.8;
+	letter-spacing: 1px;
+	text-align:center;
+	color: #fff;
+}
+
+.title{
+	margin-top: 3rem;
+}
+
+.lead{
+	margin-top: 10px;
+	color: #f4f4f4;
+}
